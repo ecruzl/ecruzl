@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, Mi nombre es Enrique Cruz Limon 👋
 
-<!--
-**ecruzl/ecruzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 Acerca de mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Bienvenido a mi GitHub! Soy ingeniero en sistemas computacionales con experiencia en desarrollo en sistemas, aplicaciones web y bases de datos. asi como tambien me encuentro formandome en temas de Intenligencia artificial y ciencia de datos
+ 
+- 📧 **Email:** [enriquecl1024@gmail.com](mailto:enriquecl1024@gmail.com)
+
+## Skills & Tecnologias
+
+Aqui hay algunas de las tecnologias con las que me gusta trabajar:
+
+- **Lenguajes**: Java, Python, TypeScript, PHP
+- **Bases de datos**: MySQL, PostgreSQL
+- **Herramientas**: GitHub, Git, intellij IDEA
+
