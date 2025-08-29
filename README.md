@@ -1,6 +1,9 @@
-# Hola, Mi nombre es Enrique Cruz Limon 👋
+# Enrique Cruz Limon 👋
 
 ---
+soy...
+<a href="[https://github.com/DenverCoder1/readme-typing-svg](https://github.com/ecruzl)"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9966FF&width=435&lines=Ingeniero+en+Sistemas+computacionales;in;Desarrollador+fullstack;Ingeniero+software"/></a>
+
 
 ## 🧑‍💻 Acerca de mi
 
